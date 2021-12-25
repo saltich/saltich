@@ -11,7 +11,7 @@ $tbRootDir=dirname(__FILE__);
 
 // Пароль для авторизации менеджера через телеграм бота
 // Password for manager auth (in Telegram bot), you must write some non-so-easy
-$tbManagerPassword="123456";
+$tbManagerPassword="12345";
 
 // API Token, который вы получили у @BotFather
 // API Token, you can get it from user @BotFather (in Telegram App)
